@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: aggregator-service
+server:
+  port: 8084
